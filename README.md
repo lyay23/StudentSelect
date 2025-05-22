@@ -2,7 +2,7 @@
 
 #### 1. 项目简介
 
-本项目采用Vue+SpringBoot+MyBatis实现前后端分离的简单学生选课系统，适合期末大作业
+本项目采用Vue+SpringBoot+MyBatis实现前后端分离的简单学生选课系统，适合期末大作业<br>
 项目来源：https://github.com/tinsyding/eJiangnan
 
 🧑‍🎓学生端：
